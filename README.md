@@ -45,8 +45,9 @@ Beyond code, I am a passionate advocate for **Self-Hosting** and **Open Source**
       </a>
     </td>
     <td>
-      <h3 style="margin-top: 0; margin-bottom: 5px;"><a href="https://github.com/emlopezr/trackwatch">TrackWatch</a></h3>
-      <p>Open Source & Self-hosted Spotify release tracker. Auto-syncs new releases to playlists and includes power-user utilities like a discography generator and ghost track cleaner.</p>
+      <strong><a href="https://github.com/emlopezr/trackwatch">TrackWatch</a></strong>
+      <br />
+      Open Source & Self-hosted Spotify release tracker. Auto-syncs new releases to playlists and includes power-user utilities like a discography generator and ghost track cleaner.
     </td>
   </tr>
 </table>
