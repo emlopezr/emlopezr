@@ -8,9 +8,11 @@
 
 **Software Engineer focused on high-scale backend architectures.**
 
-I currently drive the **Core Payments API** at **Mercado Libre**, designing and maintaining critical systems that process **millions of daily transactions** with high availability and resilience. I actively integrate AI-driven workflows to accelerate development and optimize code quality, constantly exploring the bleeding edge of LLMs to build the next generation of software solutions.
+I develop scalable services for the **Core Payments API** at **Mercado Libre**, contributing to critical systems that process **millions of daily transactions** with high availability and resilience. I actively integrate AI-driven workflows to accelerate development and optimize code quality, constantly exploring the bleeding edge of LLMs to build the next generation of software solutions.
 
-Beyond code, I am a passionate advocate for **Self-Hosting** and **Open Source** software.
+I have a **Systems and Informatics Engineering Degree** from **Universidad Nacional de Colombia** 🎓
+
+Beyond code, I am a passionate advocate for **Self-Hosting** and **Open Source** software. 💻
 
 ## 🛠️ Tech Stack
 
