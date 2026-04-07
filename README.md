@@ -52,4 +52,16 @@ Beyond code, I am a passionate advocate for **Self-Hosting** and **Open Source**
       Open Source & Self-hosted Spotify release tracker. Auto-syncs new releases to playlists and includes power-user utilities like a discography generator and ghost track cleaner.
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/emlopezr/network-sonar">
+        <img src="https://raw.githubusercontent.com/emlopezr/network-sonar/main/frontend/public/icons/radar-white.svg" width="80" alt="Network Sonar Logo" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/emlopezr/network-sonar">Network Sonar</a></strong>
+      <br />
+      Open source & self-hosted network connectivity monitor with a live dashboard, outage history, provider-aware failover controls, and lightweight SQLite persistence.
+    </td>
+  </tr>
 </table>
